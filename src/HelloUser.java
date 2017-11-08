@@ -6,6 +6,6 @@ public class HelloUser {
 		userName=pUserName;
 	}
 	public void greetUser() {
-		System.out.println("Hello" + this.userName + "!")
+		System.out.println("Hello" + this.userName + "!");
 	}
 }
